@@ -1,0 +1,11 @@
+<button type="warn">Button</button>
+<button type="primary">Button</button>
+<button>Button</button>
+<button size="mini">我是小Button</button>
+
+<button plain="true">我是镂空Button</button>
+<button plain="true" type="warn">我是镂空Button</button>
+<button plain="true" type="primary">我是镂空Button</button>
+
+<button disabled="true">我是不可点击按钮</button>
+<button loading="true" type="primary">我是加载按钮</button>
