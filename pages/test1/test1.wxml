@@ -1,0 +1,6 @@
+<!-- view 组件是父容器组件，自带换行功能 -->
+<view>我是View组件1</view>
+<view>我是View组件2</view>
+<!-- text 组件是基础组件 -->
+<text>我是text组件1</text>
+<text>我是text组件2</text>

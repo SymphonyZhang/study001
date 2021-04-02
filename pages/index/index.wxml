@@ -1,0 +1,22 @@
+<!-- 创建 wxml 大楼骨架 -->
+<view class="dalou">
+  <!-- 3 楼-->
+  <view class="floor3">
+    <!-- bindtap 设置点击事件 -->
+    <text bindtap="movieClick">电影院</text>
+    <text bindtap="restaurantClick">海底捞</text>
+    <text bindtap="ktvClick">KTV</text>
+  </view>
+  <!-- 2 楼-->
+  <view class="floor2">
+    <text bindtap="shop1Click">居然之家</text>
+    <text bindtap="xiClick">喜临门</text>
+    <text bindtap="ikeaClick">宜家家居</text>
+  </view>
+  <!-- 1 楼-->
+  <view class="floor1">
+    <text bindtap="fruitClick">水果店</text>
+    <text bindtap="houseClick">房产中介</text>
+    <text bindtap="saloClick">理发沙龙</text>
+  </view>
+</view>

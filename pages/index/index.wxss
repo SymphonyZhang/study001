@@ -1,0 +1,15 @@
+.dalou{
+  background: green;
+}
+
+.floor3{
+  background: yellow;
+}
+
+.floor2{
+  background: red;
+}
+
+.floor1{
+  background: pink;
+}
