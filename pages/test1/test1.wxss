@@ -1,1 +1,10 @@
 /* pages/test1/test1.wxss */
+.fu{
+  background: red;
+  padding: 10rpx;
+}
+
+.zi{
+  background: yellow;
+  margin-left: 10rpx;
+}
