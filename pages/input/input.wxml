@@ -1,0 +1,1 @@
+<input placeholder-style="color:pink" placeholder="输入内容" value="default" type="number" maxlength="5"></input>
