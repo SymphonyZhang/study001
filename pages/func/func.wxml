@@ -1,2 +1,4 @@
 <!--pages/func/func.wxml-->
-<text>pages/func/func.wxml</text>
+<text bindtap="func1">点我</text>
+<view bindtap="getName">点击View组件</view>
+<button bindtap="getName">点击button</button>
